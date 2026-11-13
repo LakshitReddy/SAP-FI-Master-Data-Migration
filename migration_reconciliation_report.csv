@@ -1,0 +1,10 @@
+Metric,Result
+Source Records,12
+Valid Records,8
+Rejected Records,4
+SQLite Staging Records,8
+Success Percentage,66.67
+Rejection Percentage,33.33
+Source Reconciliation,PASS
+Staging Reconciliation,PASS
+Overall Status,PASS

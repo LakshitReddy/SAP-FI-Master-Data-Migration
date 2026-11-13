@@ -1,0 +1,5 @@
+legacy_gl_code,description,account_type,company_code,currency,account_group,rejection_reason
+100001,Cash Account,BS,1000,INR,CASH,Duplicate G/L Account
+100005,,BS,1000,INR,CASH,Missing Description
+700001,Travel Expenses,INVALID,1000,INR,EXPENSE,Invalid Account Type
+800001,Depreciation Expense,PL,,INR,EXPENSE,Missing Company Code
